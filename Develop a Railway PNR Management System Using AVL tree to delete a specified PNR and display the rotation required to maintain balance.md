@@ -22,7 +22,7 @@ Rotation Display: Display the rotation performed to maintain balance.
 Search PNR: Check whether a PNR number exists in the tree.
 
 
-5. Algorithm:
+5.Algorithm:
 Algorithm for Insertion
 Start.
 Enter the PNR number.
