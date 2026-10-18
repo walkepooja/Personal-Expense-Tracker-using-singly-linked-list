@@ -5,12 +5,12 @@ This project allows users to insert PNR numbers, delete a specified PNR, and dis
 If the tree becomes unbalanced after deletion, it performs the required rotation to maintain balance.
 
 2.Objective:
--To develop a Railway PNR Management System using an AVL Tree.
--To insert PNR numbers into the tree.
--To delete a specified PNR number.
--To maintain the balance of the tree after deletion.
--To display the rotation required to maintain balance.
--To understand AVL Tree operations practically.
+To develop a Railway PNR Management System using an AVL Tree.
+To insert PNR numbers into the tree.
+To delete a specified PNR number.
+To maintain the balance of the tree after deletion.
+To display the rotation required to maintain balance.
+To understand AVL Tree operations practically.
 
 3.Feature:
 Insert PNR: Add a new PNR number.
