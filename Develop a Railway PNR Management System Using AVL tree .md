@@ -1,12 +1,12 @@
 # Develop a Railway PNR Management System Using AVL tree to delete a specified PNR and display the rotation required to maintain balance.
 
 ## 1.Introduction: 
-##=The Railway PNR Management System is a simple C++ project that uses an AVL Tree to manage PNR numbers.
+The Railway PNR Management System is a simple C++ project that uses an AVL Tree to manage PNR numbers.
 An AVL Tree is a self-balancing Binary Search Tree. It maintains balance after insertion and deletion operations.
 This project allows users to insert PNR numbers, delete a specified PNR, and display PNR records in sorted order.
 If the tree becomes unbalanced after deletion, it performs the required rotation to maintain balance.
 
-2.Objective:
+## 2.Objective:
 To develop a Railway PNR Management System using an AVL Tree.
 To insert PNR numbers into the tree.
 To delete a specified PNR number.
@@ -14,7 +14,8 @@ To maintain the balance of the tree after deletion.
 To display the rotation required to maintain balance.
 To understand AVL Tree operations practically.
 
-3.Feature:
+
+## 3.Feature:
 Insert PNR: Add a new PNR number.
 Delete PNR: Delete a specified PNR number.
 Display PNR: Display all PNR numbers in sorted order.
@@ -24,7 +25,7 @@ Rotation Display: Display the rotation performed to maintain balance.
 Search PNR: Check whether a PNR number exists in the tree.
 
 
-5.Algorithm:
+## 5.Algorithm:
 Algorithm for Insertion
 Start.
 Enter the PNR number.
@@ -35,14 +36,16 @@ Perform the required rotation if the tree becomes unbalanced.
 Display the updated tree.
 Stop.
 
-6.Technology use in Project:
+
+## 6.Technology use in Project:
 Data Structure: AVL Tree (Self-Balancing Binary Search Tree)
 Concepts Used: Insertion, Deletion, Searching and Tree Traversal.
 AVL Rotations: LL, RR, LR and RL rotations.
 Compiler: C++ Compiler.
 Standard Library: C++ Standard Input/Output (iostream).
 
-8.Conclusion:
+
+## 8.Conclusion:
 The Railway PNR Management System using an AVL Tree demonstrates how a self-balancing tree can be used to manage PNR numbers efficiently.
 The project supports insertion, deletion, and display operations.
 After deleting a specified PNR, the system checks the balance factor and performs the required rotation to maintain the AVL Tree properties.
