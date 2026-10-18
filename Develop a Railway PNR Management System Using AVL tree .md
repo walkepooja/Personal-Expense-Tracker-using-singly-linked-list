@@ -1,3 +1,5 @@
+Develop a Railway PNR Management System Using AVL tree to delete a specified PNR and display the rotation required to maintain balance.
+
 1.Introduction: 
 The Railway PNR Management System is a simple C++ project that uses an AVL Tree to manage PNR numbers.
 An AVL Tree is a self-balancing Binary Search Tree. It maintains balance after insertion and deletion operations.
@@ -40,11 +42,9 @@ AVL Rotations: LL, RR, LR and RL rotations.
 Compiler: C++ Compiler.
 Standard Library: C++ Standard Input/Output (iostream).
 
-
-
-
 8.Conclusion:
 The Railway PNR Management System using an AVL Tree demonstrates how a self-balancing tree can be used to manage PNR numbers efficiently.
 The project supports insertion, deletion, and display operations.
 After deleting a specified PNR, the system checks the balance factor and performs the required rotation to maintain the AVL Tree properties.
 This project helps students understand AVL Tree operations, balance factors, and rotations through a practical C++ application.
+
