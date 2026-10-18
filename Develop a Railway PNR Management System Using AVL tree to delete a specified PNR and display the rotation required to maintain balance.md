@@ -21,12 +21,6 @@ Automatic Balancing: Balance the tree after deletion.
 Rotation Display: Display the rotation performed to maintain balance.
 Search PNR: Check whether a PNR number exists in the tree.
 
-4.Application:
-Railway reservation record management.
-Organizing passenger PNR records.
-Searching and deleting records efficiently.
-Understanding self-balancing trees.
-Learning data structure operations using C++.
 
 5. Algorithm:
 Algorithm for Insertion
