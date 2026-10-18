@@ -40,28 +40,8 @@ AVL Rotations: LL, RR, LR and RL rotations.
 Compiler: C++ Compiler.
 Standard Library: C++ Standard Input/Output (iostream).
 
-7.Flowchart:
-Start
-↓
-Display Menu
-↓
-Enter Choice
-↓
-Insert / Delete / Display / Search PNR
-↓
-Update Tree Height
-↓
-Calculate Balance Factor
-↓
-Is the Tree Unbalanced?
-Yes: Perform the required rotation.
-No: Continue without rotation.
-↓
-Display Updated Tree
-↓
-Return to Menu or Exit
-↓
-Stop
+
+
 
 8.Conclusion:
 The Railway PNR Management System using an AVL Tree demonstrates how a self-balancing tree can be used to manage PNR numbers efficiently.
