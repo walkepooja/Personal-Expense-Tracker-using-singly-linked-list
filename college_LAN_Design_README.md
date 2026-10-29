@@ -1,4 +1,4 @@
-##Introduction:
+#Introduction:
 
 A College LAN connects laboratories, the library, the administration office,
 and the computer center. This project uses graph algorithms to plan
