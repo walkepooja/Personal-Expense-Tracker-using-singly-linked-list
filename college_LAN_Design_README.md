@@ -1,17 +1,22 @@
-##Introduction:
+Problem Statement 
+Develop a college LAN design application using weighted communication links, and 
+apply Kruskal's algorithm to construct a minimum-cost network and Dijkstra's algorithm
+to find the shortest path between two laboratories.
+
+Introduction:
 
 A College LAN connects laboratories, the library, the administration office,
 and the computer center. This project uses graph algorithms to plan
 network connections efficiently.
 
-##Objectives:
+Objectives:
 
 - To design a college LAN using weighted communication links.
 - To find the minimum-cost network using Kruskal's Algorithm.
 - To find the shortest path between two locations using Dijkstra's Algorithm.
 - To calculate the total network cost and shortest distance.
 
-##Features:
+Features:
 
 - Represents college locations as graph vertices.
 - Uses weighted edges for communication costs.
@@ -27,7 +32,7 @@ network connections efficiently.
 - Algorithms: Kruskal's Algorithm and Dijkstra's Algorithm
 
 
-##College Locations:
+College Locations:
 
 - 0 – Admin
 - 1 – Lab1
@@ -35,27 +40,27 @@ network connections efficiently.
 - 3 – Library
 - 4 – Computer Center
 
-##Sample Results:
+Sample Results:
 
 - Total Minimum Cost = 10
 - Shortest Path from Lab1 to Computer Center = 1 -> 3 -> 4
 - Shortest Distance = 7 units
 
-##How to Run:
+How to Run:
 
 1. Download or clone this repository.
 2. Open "main.cpp" in a C++ compiler.
 3. Compile and run the program.
 4. Enter the source and destination location numbers.
 
-##Applications:
+Applications:
 
 - College computer networks
 - Network cable planning
 - Communication network design
 - Graph algorithm learning
 
-##Conclusion:
+Conclusion:
 
 This project demonstrates how Kruskal's Algorithm minimizes
 the cost of connecting college locations and how Dijkstra's
