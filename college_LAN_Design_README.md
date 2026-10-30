@@ -26,7 +26,7 @@ Features:
 - Accepts source and destination locations.
 - Displays the shortest path and distance.
 
-##Technologies Used:
+Technologies Used:
 
 - Programming Language: C++
 - Concepts: Graphs, Minimum Spanning Tree, Shortest Path
